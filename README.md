@@ -12,13 +12,13 @@ input :
 
 -> Enter Start text : a 1 c
 
--> Enter step: 1\n
+-> Enter step: 1
 
--> Enter step: 2\n
+-> Enter step: 2
 
--> Enter step: 1\n
+-> Enter step: 1
 
--> Enter end text : k 20 m\n
+-> Enter end text : k 20 m
 
 output :
 
