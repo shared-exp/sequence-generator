@@ -8,12 +8,12 @@ Don't forgot that "sequence-generator.py" must be in a Directory(Folder) ! Becas
 # Guide
 
 # example input and output :
-input :
--> Enter Start text : a 1 c
--> Enter step: 1
--> Enter step: 2
--> Enter step: 1
--> Enter end text : k 20 m
+input :\n
+-> Enter Start text : a 1 c\n
+-> Enter step: 1\n
+-> Enter step: 2\n
+-> Enter step: 1\n
+-> Enter end text : k 20 m\n
 output :
 a1c
 b3d
