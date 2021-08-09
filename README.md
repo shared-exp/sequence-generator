@@ -1,3 +1,5 @@
+# still buggy version 
+
 # sequence-generator
 
 inspired by Seq in GNU linux
